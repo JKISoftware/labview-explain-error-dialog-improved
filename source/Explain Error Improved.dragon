@@ -1,0 +1,8 @@
+[project]
+labview-version = "2020"
+vipc = "Explain Error Improved.vipc"
+
+[schema]
+version = "2023.3"
+
+[vipm.dependencies]

@@ -4,5 +4,13 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">536903680</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="Messages for this Actor" Type="Folder"/>
-	<Item Name="Explain Error Improved Dialog.lvclass" Type="LVClass" URL="/&lt;resource&gt;/plugins/PopupMenus/edit time panel and diagram/Explain Error (Improved)/Explain Error Improved Dialog/Explain Error Improved Dialog/Explain Error Improved Dialog.lvclass"/>
+	<Item Name="Support" Type="Folder">
+		<Item Name="General Error Handler Core CORE__Copy.vi" Type="VI" URL="../../General Error Handler Core CORE__Copy.vi"/>
+		<Item Name="Get VI Item in String.vi" Type="VI" URL="../../Get VI Item in String.vi"/>
+		<Item Name="Match VI Names in String.vi" Type="VI" URL="../../Match VI Names in String.vi"/>
+		<Item Name="Match with Submatch1 Info.vi" Type="VI" URL="../../Match with Submatch1 Info.vi"/>
+	</Item>
+	<Item Name="Explain Error (Improved) UI.vi" Type="VI" URL="../../Explain Error (Improved) UI.vi"/>
+	<Item Name="Explain Error Improved Dialog.lvclass" Type="LVClass" URL="../Explain Error Improved Dialog/Explain Error Improved Dialog.lvclass"/>
+	<Item Name="Is Single Cluster in Ctrl Refs Array.vi" Type="VI" URL="../../Is Single Cluster in Ctrl Refs Array.vi"/>
 </Library>
